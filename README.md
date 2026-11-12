@@ -51,11 +51,7 @@ The deployment was tested through:
 The bridge successfully connected through Tor Browser and was verified using the Tor Project's connectivity check.
 
 Backup and Recovery
-An encrypted backup of the bridge configuration and associated recovery data was created and transferred securely.
-
-SHA-256 checksum verification was performed to confirm backup integrity.
-
-Sensitive configuration data and private credentials are intentionally excluded from this public repository.
+An encrypted backup of the bridge configuration and associated recovery data was created and transferred securely. SHA-256 checksum verification was performed to confirm backup integrity. Sensitive configuration data and private credentials are intentionally excluded from this public repository.
 
 Skills Demonstrated
 -Linux administration
