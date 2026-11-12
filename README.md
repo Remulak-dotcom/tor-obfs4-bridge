@@ -1,5 +1,21 @@
 # tor-obfs4-bridge
 Deployment and security hardening of a self-hosted Tor obfs4 bridge on Debian 13.
+
+Table of Contents
+Project Overview
+Understanding Tor, Bridges, and obfs4
+Project Objectives
+Technologies Used
+Security Implementation
+Testing and Verification
+Backup and Recovery
+Monitoring and Maintenance
+Skills Demonstrated
+Screenshots
+Official Tor Project Resources
+Disclaimer
+
+
 Tor obfs4 Bridge
 
 What Is Tor?
